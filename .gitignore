@@ -1,0 +1,24 @@
+# build artifacts
+debug/
+target/
+*.pdb
+.cache
+node_modules/
+dist/
+npm-debug.*
+*.tsbuildinfo
+
+# backups
+**/*.rs.bk
+
+# editors
+.idea/
+.vscode/
+
+# OS stuff
+.DS_Store
+
+# env
+.env
+.env*.local
+

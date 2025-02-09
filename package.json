@@ -1,0 +1,9 @@
+{
+  "name": "yachay",
+  "author": "nandeva",
+  "description": "yachay is a optimized and ergonomic logging tool",
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
